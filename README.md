@@ -7,7 +7,7 @@ Nama : Dzaki Surtika Nugraha
 Kelas : XII-RPL 1
 
 Absen : 15
----
+
 Screenshot Intent3 :
 
 ![RecyclerView1_Screenshot1](https://dzagraha.files.wordpress.com/2016/11/sc_recycler1a.jpeg?w=200)
